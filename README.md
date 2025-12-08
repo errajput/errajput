@@ -30,10 +30,6 @@ Welcome to my GitHub profile! I'm passionate about creating elegant solutions to
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=errajput&show_icons=true&theme=radical)
-
 ## 🤝 Let's Collaborate!
 
 I'm always interested in working on exciting projects and connecting with fellow developers. Feel free to reach out if you'd like to collaborate or just chat about tech!
