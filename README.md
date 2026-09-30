@@ -1,15 +1,17 @@
 # Hi there! 👋 I'm Disha Rajput
 
-### Full Stack Developer | Building Modern Web Applications
+### Full Stack MERN Developer | React.js | Next.js | Node.js | MongoDB
 
-Welcome to my GitHub profile! I'm passionate about creating elegant solutions to complex problems and constantly expanding my technical skill-set.
+I'm a Full Stack Developer passionate about building modern, responsive, and scalable web applications. I enjoy turning ideas into real-world products and working across both frontend and backend development.
 
-## 🚀 What I'm Up To
+## 🚀 About Me
 
-- 🔭 Currently building: [**CareHub**](https://github.com/errajput/carehub) - A comprehensive healthcare management web application
-- 🌱 Learning journey: **Full Stack Development** with modern frameworks and best practices
-- 💬 Ask me about: JavaScript, React, Node.js, or anything web development!
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/er-disha-rajput/)
+- 💻 Full Stack Developer with hands-on experience building production-ready web applications
+- 🚀 Built full-stack applications including an E-commerce Platform and Healthcare Appointment Management System
+- 🔐 Experienced in RESTful APIs, JWT authentication, and role-based authorization
+- 🎨 Passionate about building responsive and user-friendly interfaces
+- 🌱 Continuously learning modern web development practices and technologies
+- 💼 Open to Full Stack / MERN Developer opportunities
 
 ## 🛠️ Technical Skills
 
@@ -26,13 +28,84 @@ Welcome to my GitHub profile! I'm passionate about creating elegant solutions to
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+**Core**
+!REST APIs
+!API Integration
+!JWT Authentication
+!RBAC
+!Responsive Design
+!CRUD
+!State Management
+!Error Handling
+!Git Workflow
+!Performance Optimization
+
 **Tools & Technologies**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+!JWT
+!Postman
+!Cloudinary
+!Railway
+!Vercel
+!Netlify
 
-## 🤝 Let's Collaborate!
+## 🚀 Featured Projects
 
-I'm always interested in working on exciting projects and connecting with fellow developers. Feel free to reach out if you'd like to collaborate or just chat about tech!
+**🛒 E-Commerce Platform**
+
+A full-stack e-commerce application built with modern web technologies.
+
+**Key Features:**
+
+- User authentication and authorization
+- Product management
+- Shopping cart functionality
+- Order management
+- Responsive user interface
+- RESTful API integration
+- MongoDB database
+
+**Tech Stack:** React.js · Next.js · TypeScript · Node.js · Express.js · MongoDB
+
+🔗 View Project - [E-Commerce](https://ecommerce-web-one-weld.vercel.app/)
+
+**🏥 Healthcare Appointment Management System**
+
+A full-stack healthcare application designed to manage appointments and streamline healthcare-related workflows.
+
+**Key Features:**
+
+- User authentication
+- Appointment management
+- Role-based access
+- Responsive interface
+- RESTful APIs
+- Database integration
+
+**Tech Stack:** React.js · Next.js · TypeScript · Node.js · Express.js · MongoDB
+
+🔗 View Project - [CareHub](https://carehub-eta.vercel.app/)
+
+## 💼 Experience
+
+**Full Stack Developer — Tranovative Tech Pvt. Ltd.**
+
+January 2025 – January 2026
+
+- Developed and maintained production-ready full-stack web applications.
+- Designed and integrated secure RESTful APIs with JWT-based authentication and role-based authorization.
+- Built reusable and responsive UI components using React.js and Tailwind CSS.
+- Optimized MongoDB queries and backend logic for performance and scalability.
+- Collaborated with cross-functional teams using Git workflows for feature development and bug fixes.
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+
+📫 LinkedIn: [LinkedIn](https://www.linkedin.com/in/er-disha-rajput/)
+
+💻 GitHub: [errajput](https://github.com/errajput)
 
 ---
 
